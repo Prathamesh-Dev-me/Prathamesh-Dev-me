@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Praframesh-Dev-me&color=blueviolet)
 [![GitHub followers](https://img.shields.io/github/followers/Praframesh-Dev-me?label=Follow&style=social)](https://github.com/Prathamesh-Dev-me)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/prathamesh)
-[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/prathamesh)
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-1F1F1F?style=flat&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/users/prathamesh)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-monde-159a0a255/)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/prathameshmonde.pm)
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-1F1F1F?style=flat&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019ecf41-2417-70fc-ba7f-dd5faf69f287)
 
 ---
 
