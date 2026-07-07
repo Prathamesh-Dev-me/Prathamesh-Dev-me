@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Praframesh
+# 👋 Hey, I'm Prathamesh
 
 ### Cybersecurity Enthusiast | Blue Team Aspirant | Penetration Testing Learner | Open-Source Builder
 
